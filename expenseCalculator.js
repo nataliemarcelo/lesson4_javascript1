@@ -38,7 +38,7 @@
                   var foodAmt = document.getElementById("foodInput").value;
                   var householdAmt = document.getElementById("householdInput").value;
                   var transportationAmt = document.getElementById("transportationInput").value;
-                  var miscellaneousAmt = document.getElementById("miscellaneousAmt").value;
+                  var miscellaneousAmt = document.getElementById("miscellaneousInput").value;
 
 
 
